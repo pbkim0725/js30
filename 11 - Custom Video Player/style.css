@@ -55,6 +55,10 @@ body {
 	cursor: pointer;
 	max-width: 50px;
 }
+.fs {
+	max-width: 50px;
+	cursor: pointer;
+}
 
 .player__button:focus {
 	border-color: #ffc600;
